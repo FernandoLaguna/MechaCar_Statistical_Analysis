@@ -25,7 +25,7 @@ lm(mpg ~ vehicle_length + vehicle_weight + spoiler_angle + ground_clearance + AW
 
 Total mean and SD are not very small, the cause of the above is because lot 3 has a big variance that doesn´t meet the specification of 100.
 
-![Total mean](/images/Total_mean.png)                     ![Lot mean](/images/lot_mean.png)
+![Total mean](/images/Total_Summary.png)                     ![Lot mean](/images/lot_Summary.png)
 
 ## T-Tests on Suspension Coils
 
